@@ -1,0 +1,16 @@
+{
+  "name": "my-restaurant-my-sqlap",
+  "version": "0.0.0",
+  "description": "MyRestaurantMySQLAP",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-myconnection": "^1.0.4",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1"
+  }
+}
